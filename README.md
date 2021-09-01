@@ -1,4 +1,4 @@
-## The general process for ARIMA models :
+## The general process for Time Series Models :
 
 1.Visualizing the Time Series Data.
 
