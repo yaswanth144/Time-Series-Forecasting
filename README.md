@@ -1,4 +1,4 @@
-      **The general process for ARIMA models is the following:**
+      ****The general process for ARIMA models is the following:****
 
       1.Visualizing the Time Series Data
       2.Making the time series data stationary
